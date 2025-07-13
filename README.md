@@ -50,6 +50,6 @@ Ce dépôt est public à but pédagogique. Merci de ne pas l’utiliser en produ
 
 ## 👤 Auteur
 
-**Mourad / Qunetin / Emilie*  
-Projet réalisé avec Quentin, Émilie – M1 SRC – ESGI Paris  
+Mourad / Qunetin / Emilie*  
+Projet réalisé avec Quentin, Émilie – M1 SRC – ESGI Nantes 
 Juillet 2025
